@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lista1_08",
+            "request": "launch",
+            "mainClass": "lista1_08",
+            "projectName": "lista de exerc1_c4536b1a"
+        },
+        {
+            "type": "java",
+            "name": "lista1_09",
+            "request": "launch",
+            "mainClass": "lista1_09",
+            "projectName": "lista de exerc1_c4536b1a"
+        },
+        {
+            "type": "java",
+            "name": "lista1_03_01",
+            "request": "launch",
+            "mainClass": "lista1_03_01",
+            "projectName": "lista de exerc1_c4536b1a"
+        },
+        {
+            "type": "java",
+            "name": "lista1_01",
+            "request": "launch",
+            "mainClass": "lista1_01",
+            "projectName": "lista de exerc1_c4536b1a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "lista de exerc1_c4536b1a"
+        }
+    ]
+}

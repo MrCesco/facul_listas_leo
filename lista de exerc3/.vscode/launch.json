@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExeRepeticao08",
+            "request": "launch",
+            "mainClass": "ExeRepeticao08",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao07",
+            "request": "launch",
+            "mainClass": "ExeRepeticao07",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao06",
+            "request": "launch",
+            "mainClass": "ExeRepeticao06",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao05",
+            "request": "launch",
+            "mainClass": "ExeRepeticao05",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao04",
+            "request": "launch",
+            "mainClass": "ExeRepeticao04",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao01",
+            "request": "launch",
+            "mainClass": "ExeRepeticao01",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao02",
+            "request": "launch",
+            "mainClass": "ExeRepeticao02",
+            "projectName": "lista de exerc3_c4536b1c"
+        },
+        {
+            "type": "java",
+            "name": "ExeRepeticao03",
+            "request": "launch",
+            "mainClass": "ExeRepeticao03",
+            "projectName": "lista de exerc3_c4536b1c"
+        }
+    ]
+}

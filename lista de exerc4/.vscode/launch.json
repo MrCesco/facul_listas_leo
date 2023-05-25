@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExeVetor12",
+            "request": "launch",
+            "mainClass": "ExeVetor12",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor13",
+            "request": "launch",
+            "mainClass": "ExeVetor13",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor13",
+            "request": "launch",
+            "mainClass": "ExeVetor13",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor12",
+            "request": "launch",
+            "mainClass": "ExeVetor12",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor11",
+            "request": "launch",
+            "mainClass": "ExeVetor11",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor10",
+            "request": "launch",
+            "mainClass": "ExeVetor10",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor09",
+            "request": "launch",
+            "mainClass": "ExeVetor09",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor08",
+            "request": "launch",
+            "mainClass": "ExeVetor08",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor07",
+            "request": "launch",
+            "mainClass": "ExeVetor07",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor06",
+            "request": "launch",
+            "mainClass": "ExeVetor06",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor05",
+            "request": "launch",
+            "mainClass": "ExeVetor05",
+            "projectName": "lista de exerc4_c4536b1d"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor02",
+            "request": "launch",
+            "mainClass": "ExeVetor02",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor01",
+            "request": "launch",
+            "mainClass": "ExeVetor01",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        },
+        {
+            "type": "java",
+            "name": "ExeVetor03",
+            "request": "launch",
+            "mainClass": "ExeVetor03",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        },
+        {
+            "type": "java",
+            "name": "exemplo2",
+            "request": "launch",
+            "mainClass": "exemplo2",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "exerc1",
+            "request": "launch",
+            "mainClass": "exerc1",
+            "projectName": "lista de exerc4_ccd7a4c7"
+        }
+    ]
+}
