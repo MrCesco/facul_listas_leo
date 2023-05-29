@@ -1,5 +1,6 @@
 package execs;
-import models.*;
+import models.Funcionario;
+import models.Gerente;
 
 public class exerc1 {
     public static void main(String[] args) {
