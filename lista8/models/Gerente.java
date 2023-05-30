@@ -28,6 +28,6 @@ public class Gerente extends Funcionario {
     @Override
     public String toString() {
         DecimalFormat df = new DecimalFormat("#.00");
-        return "Genrente: " + getNome() + ", CPF: " + getCpf() + ", Salario: "+ df.format(getSalario()) +" Departamento: " + departamento;
+        return "Gerente: " + getNome() + ", CPF: " + getCpf() + ", Salario: "+ df.format(getSalario()) +" Departamento: " + departamento;
     }
 }
